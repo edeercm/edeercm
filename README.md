@@ -1,15 +1,61 @@
-# 🚀 Payments Solutions Developer
+# Syzygy. Where systems align.
 
-Hi there! 👋 I'm a **Payments Solutions Developer** passionate about crafting **scalable and secure transactional solutions** for global payment systems.  
+Frontend Developer specialized in payment systems 
+and AI-augmented workflows.
 
-🔹 **Currently:** **Kuvasz Solutions**, a strategic partner of **ACI Worldwide**, where I integrate and optimize transactions within **Universal Payment Framework (UPF)**.  
-🔹 **Background:** Originally an **Electromechanical Engineer**, now blending **FinTech expertise** with Front-End development to create seamless user experiences.  
-🔹 **Tech Stack:** **ISO 8583, UPF, Groovy, HTML, CSS, JavaScript, MySQL, React, Java, Spring Boot, AWS**.  
-🔹 **Mission:** Building **high-performance, secure, and intuitive** financial solutions that **enhance electronic payments worldwide**.  
+I started in frontend, learning how users interact 
+with products. That path led me into financial 
+technology — integrating payment systems where 
+reliability and precision are non-negotiable. 
+Now I bring both worlds together with an AI-first 
+workflow.
 
-💡 Open to **new opportunities** that foster **growth, stability, and high-impact innovation**. Let’s connect! 🚀  
+---
 
-<!---
-edeercm/edeercm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Payment Systems & Integration
+
+- ACI Universal Payments Framework (UPF)
+- ISO-8583 · Base24-EPS · IBM WebSphere MQ
+- JWT Authentication · 3D Secure · Cybersource
+- Thales IdCloud · Token Vault · PCI Compliance
+- REST/JSON ↔ Fixed-Length transformation
+- Fraud detection · Transactional alert engines
+
+## Frontend Development
+
+- HTML5 · CSS3 · JavaScript · React · Bootstrap
+
+## Backend & Integration
+
+- Java · Spring Boot · RESTful APIs
+
+## Databases & Infrastructure
+
+- MySQL · Oracle Database
+- AWS · OCI · Linux/Unix · SSH · SFTP · Git
+
+## AI & Productivity Stack
+
+- Google Gemini (Custom Gems) · NotebookLM
+- Google Flow · Antigravity · Seedance 2.0
+- Nano Banana 2 · OpenArt · Google Vids
+
+---
+
+## Currently
+
+Building at Kuvasz Solutions — strategic partner 
+of ACI Worldwide. Integrating critical financial 
+flows in production payment environments.
+
+Open to remote opportunities in fintech, 
+payment systems and AI-augmented development.
+
+---
+
+## Let's connect
+
+[Portfolio](https://edercmportfolio.netlify.app) · 
+[LinkedIn](https://linkedin.com/in/edeercm)
+
+📍 Veracruz, México
