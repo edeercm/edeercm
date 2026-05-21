@@ -1,4 +1,4 @@
-# Syzygy. Where systems align.
+# Where systems align.
 
 Frontend Developer specialized in payment systems 
 and AI-augmented workflows.
