@@ -58,4 +58,4 @@ payment systems and AI-augmented development.
 [Portfolio](https://syzygy-wrld.netlify.app/) · 
 [LinkedIn](https://linkedin.com/in/edeercm)
 
-📍 Veracruz, México
+📍Mexican
