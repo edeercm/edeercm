@@ -55,7 +55,7 @@ payment systems and AI-augmented development.
 
 ## Let's connect
 
-[Portfolio](https://edercmportfolio.netlify.app) · 
+[Portfolio](https://syzygy-wrld.netlify.app/) · 
 [LinkedIn](https://linkedin.com/in/edeercm)
 
 📍 Veracruz, México
